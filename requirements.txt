@@ -4,3 +4,4 @@ opencv-python==4.11.0.86
 numpy==1.26.4
 Pillow==11.2.1
 mediapipe==0.10.21
+torch==2.7.0
